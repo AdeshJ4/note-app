@@ -1,0 +1,21 @@
+{
+  "name": "note-app",
+  "version": "1.0.0",
+  "description": "Note App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adesh Pramod Jadhav",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.9.0",
+    "yargs": "^17.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "optionalDependencies": {
+    "chalk": "^4.1.2"
+  }
+}
